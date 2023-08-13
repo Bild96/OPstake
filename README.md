@@ -1,4 +1,6 @@
 ## 💾 OPstake app - This app will allow users to stake a DATA token and earn a reward token in return ( DATAR ) DATA reward token.
+ <img src="https://img.shields.io/badge/Version-0.1-green?style=for-the-badge"><img src="https://img.shields.io/github/license/bild96/OPstake?style=for-the-badge&color=blue">
+
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
@@ -15,9 +17,13 @@
  yarn dev
 ```
 ## 💡 Live demo
-[♟️ OPstake](https://ipfs.io/ipfs/bafybeifuqwiwwuwbl44bm5cgjvaao5ali4jff4w3zvgx2bptm6zzfhidwq/)
+[💾 OPstake - IPFS](https://ipfs.io/ipfs/bafybeifuqwiwwuwbl44bm5cgjvaao5ali4jff4w3zvgx2bptm6zzfhidwq/)
+
+[OPstaking.webm](https://github.com/Bild96/OPstake/assets/52472445/070c1984-96a7-4d18-9555-8efd3207c260)
+
 
 ## 🤳 Screenshots <a name = "screenshots"></a>
+![Screenshot from 2023-08-13 17-52-55](https://github.com/Bild96/OPstake/assets/52472445/53076271-30a1-499e-be30-d79ec75280ff)
 
 
 
@@ -45,5 +51,5 @@ yarn deploy
  </h1>
  
 #### 🪙 Want to show support? Just spread the word and smash the ⭐ star button
-###### Donate BTC: ***bc1qcgl0dnquzlflenpupeyktm68v4rjpls09ljvul***
+###### Donate ETH: ***0xfd7a470001364d707c81074142b6aC9248B0b0cc***
 
